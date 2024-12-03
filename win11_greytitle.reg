@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM]
+"AccentColor"=dword:ff404040
+"AccentColorInactive"=dword:ff101010
+"ColorPrevalence"=dword:1
+"ColorizationColor"=dword:ff101010
+
