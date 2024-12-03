@@ -5,6 +5,7 @@
 (I have no idea why the icon vanished)
 
 A registry tweak for Windows 11 that makes title bars pure black, helping to reduce OLED screen burn-in, especially for fullscreen programs and apps. A gray variant is also included for aesthetic preferences.
+Note that Windows 11 does not allow changing of inactive window's title bar color through settings. Applying registry fix is the only way to change.
 
 ## Files Included
 - **`win11_blacktitle.reg`**: Applies pure black title bars (#000000, #000000). This one is OLED-friendly.
