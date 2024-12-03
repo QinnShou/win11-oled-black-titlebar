@@ -6,8 +6,8 @@
 A registry tweak for Windows 11 that makes title bars pure black, helping to reduce OLED screen burn-in, especially for fullscreen programs and apps. A grey variant is also included for aesthetic preferences.
 
 ## Files Included
-- **`win11_blacktitle.reg`**: Applies pure black title bars.
-- **`win11_greytitle.reg`**: Applies grey title bars.
+- **`win11_blacktitle.reg`**: Applies pure black title bars (#000000, #000000). This one is OLED-friendly.
+- **`win11_greytitle.reg`**: Applies grey title bars (#404040, #101010).
 - Content:
 
 ```reg
