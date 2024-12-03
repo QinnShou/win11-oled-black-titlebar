@@ -27,7 +27,7 @@ Windows Registry Editor Version 5.00
    "AccentColor", "AccentColorInactive", "ColorPrevalence", "ColorizationColor"
 1. Download the `.reg` file of your choice from the repository.
 2. Double-click the file to apply the changes to your registry.
-3. Restart your PC to see the changes.
+3. Restart your PC to see the changes, or kill the dwm process from task manager.
 
 ## Important Notes
 - Modifying the registry can have unintended effects. Use these files at your own risk.
