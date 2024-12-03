@@ -1,6 +1,6 @@
 # win11-oled-black-titlebar
 
-![black and grey title](github demo title.jpg)
+![Comparison](https://github.com/QinnShou/win11-oled-black-titlebar/blob/main/github%20demo%20title.jpg) 
 
 A registry tweak for Windows 11 that makes title bars pure black, helping to reduce OLED screen burn-in, especially for fullscreen programs and apps. A grey variant is also included for aesthetic preferences.
 
